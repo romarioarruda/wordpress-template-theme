@@ -1,0 +1,20 @@
+section.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+section.container main {
+    width: 70%;
+}
+
+aside.lateral {
+    width: 30%;
+}
+
+.paginacao {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: space-around;
+}
